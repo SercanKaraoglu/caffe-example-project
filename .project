@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>caffe-example-project</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/caffe-module/solver.prototxt</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Dropbox/otto/solver.prototxt</locationURI>
+		</link>
+		<link>
+			<name>src/caffe-module/test.csv</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Dropbox/otto/test.csv</locationURI>
+		</link>
+		<link>
+			<name>src/caffe-module/train.csv</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Dropbox/otto/train.csv</locationURI>
+		</link>
+		<link>
+			<name>src/caffe-module/train_val.prototxt</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Dropbox/otto/train_val.prototxt</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
